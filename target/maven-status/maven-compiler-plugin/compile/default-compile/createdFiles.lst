@@ -1,0 +1,5 @@
+com\example\microservicio_envios\MicroservicioEnviosApplication.class
+com\example\microservicio_envios\repositorios\enviorepositorio.class
+com\example\microservicio_envios\service\envioservice.class
+com\example\microservicio_envios\controller\enviocontroller.class
+com\example\microservicio_envios\model\envio.class
